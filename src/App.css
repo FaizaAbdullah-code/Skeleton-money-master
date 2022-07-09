@@ -25,14 +25,11 @@ body {
 
 #app {
   background-color: black;
-  /* background-image: url("./Images/Grave_Background_Desktop-2.jpg"); */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-
 
 .intro {
   height: 90vh;
@@ -76,16 +73,18 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-
 }
+
 .text {
   font-size: 18px;
   line-height: 31px;
 }
+
  .container-button {
     display: flex;
     flex-direction: row;
   }
+
   .btn-whitepaper {
     background: linear-gradient(370deg, yellow , #fdc0c0);
     font-weight: 600;
@@ -116,6 +115,7 @@ body {
   .fixed{
     background-color: rgba(252, 252, 7, 0.886);
   }
+  
   .btn-contract {
     background-color: rgba(252, 252, 7, 0.635);
     font-weight: 600;
